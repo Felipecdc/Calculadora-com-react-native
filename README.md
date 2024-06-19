@@ -34,4 +34,7 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENS
 
 ## Demonstração
 
-![Gif do projeto](https://github.com/Felipecdc/Calculadora-com-react-native/blob/main/202406191824_1_.gif)
+
+<div align="flex-start">
+  <img src="https://github.com/Felipecdc/Calculadora-com-react-native/blob/main/202406191824_1_.gif" width="450">
+</div>
