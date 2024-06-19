@@ -2,6 +2,11 @@
 
 Este é um aplicativo de calculadora desenvolvido com React Native.
 
+<h2> 🛠 &nbsp;Tech Stack</h2>
+
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ## Funcionalidades
 
 - Realiza operações matemáticas básicas como adição, subtração, multiplicação e divisão.
