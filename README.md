@@ -31,3 +31,7 @@ Este é um aplicativo de calculadora desenvolvido com React Native.
 ## Licença
 
 Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Demonstração
+
+![Gif do projeto](https://github.com/Felipecdc/Calculadora-com-react-native/blob/main/202406191824_1_.gif)
